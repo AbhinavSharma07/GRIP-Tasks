@@ -4,7 +4,7 @@
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. Use R or Python or perform this task.
-3. Data can be found at https://bit.ly/3cGyP8j
+3. Data can be found at https://bit.ly/3kXTdox
 
 # Task-7 : Stock Market Prediction using Numerical and Textual Analysis 
 
